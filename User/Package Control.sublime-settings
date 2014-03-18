@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"jQuery",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TrailingSpaces",
+		"WakaTime"
+	]
+}
