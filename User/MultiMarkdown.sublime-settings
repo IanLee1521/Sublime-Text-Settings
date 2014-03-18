@@ -1,0 +1,11 @@
+{
+    // Which file extensions go with this file type?
+    "extensions":
+    [
+        "md",
+        "mdown",
+        "mdwn",
+        "mmd",
+        "txt"
+    ]
+}
