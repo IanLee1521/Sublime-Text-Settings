@@ -3,7 +3,7 @@
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns": [".nfs*", "*.sw[nop]", "*.pyc"],
-	"folder_exclude_patterns": ["build", "dist", "rpm"],
+	"folder_exclude_patterns": [".git", "build", "dist", "rpm"],
 	"font_size": 10,
 	"font_options": ["subpixel_antialias"],
     "highlight_modified_tabs": true,
