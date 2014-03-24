@@ -12,6 +12,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
 		"TrailingSpaces",
 		"WakaTime"
