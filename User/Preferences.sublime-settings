@@ -1,33 +1,34 @@
 {
-	"auto_complete_commit_on_tab": false,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
-	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns":
-	[
-		".nfs*",
-		"*.sw[nop]",
-		"*.pyc"
-	],
-	"folder_exclude_patterns":
-	[
-		".git",
-		"build",
-		"dist",
-		"rpm"
-	],
-	"font_options":
-	[
-		"subpixel_antialias"
-	],
-	"font_size": 10,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"tab_completion": false,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+    "auto_complete_commit_on_tab": false,
+    "auto_complete_delay": 50,
+    "color_scheme": "Packages/User/Monokai (SL).tmTheme",
+    "ensure_newline_at_eof_on_save": true,
+    "file_exclude_patterns":
+    [
+        ".nfs*",
+        "*.sw[nop]",
+        "*.pyc"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".git",
+        "build",
+        "dist",
+        "rpm"
+    ],
+    "font_options":
+    [
+        "subpixel_antialias"
+    ],
+    "font_size": 10,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "tab_completion": false,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
 }

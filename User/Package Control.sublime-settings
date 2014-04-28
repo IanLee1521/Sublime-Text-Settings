@@ -8,10 +8,13 @@
 		"Git",
 		"GitGutter",
 		"HTML5",
+		"INI",
 		"jQuery",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
 		"TrailingSpaces",
 		"WakaTime"

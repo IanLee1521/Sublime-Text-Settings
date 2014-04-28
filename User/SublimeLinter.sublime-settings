@@ -3,19 +3,27 @@
         "debug": false,
         "delay": 0.25,
         "error_color": "D02000",
-        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Danish Royalty/Danish Royalty.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "pep8": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "E501",
+                "max-line-length": null,
+                "select": ""
+            },
             "pyflakes": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
             },
             "pylint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
-                "disable": "",
+                "disable": "C0301",
                 "enable": "",
                 "excludes": [],
                 "rcfile": ""
