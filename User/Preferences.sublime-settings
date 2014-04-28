@@ -23,7 +23,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SublimeLinter-pylint",
 		"Vintage"
 	],
 	"tab_completion": false,
