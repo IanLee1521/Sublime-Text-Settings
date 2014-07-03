@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"BracketHighlighter",
 		"CMake",
 		"Djaneiro",
 		"DocBlockr",
@@ -17,7 +18,9 @@
 		"SublimeLinter-pep8",
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pylint",
+		"Tcsh and Csh Mode",
 		"TrailingSpaces",
-		"WakaTime"
+		"WakaTime",
+		"WordCount"
 	]
 }
