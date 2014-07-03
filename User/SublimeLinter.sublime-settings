@@ -21,12 +21,14 @@
                 "excludes": []
             },
             "pylint": {
-                "@disable": true,
+                "@disable": false,
                 "args": [],
                 "disable": "C0301",
                 "enable": "",
                 "excludes": [],
-                "rcfile": ""
+                "paths": [],
+                "rcfile": "",
+                "show-codes": false
             }
         },
         "mark_style": "outline",
