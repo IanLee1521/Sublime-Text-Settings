@@ -1,13 +1,15 @@
 {
 	"auto_complete_commit_on_tab": false,
-	"auto_complete_delay": 50,
+	"auto_complete_delay": 500,
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		".nfs*",
 		"*.sw[nop]",
-		"*.pyc"
+		"*.py[co]",
+		"*.o",
+		"*.a",
 	],
 	"folder_exclude_patterns":
 	[
