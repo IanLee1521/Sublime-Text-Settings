@@ -7,21 +7,18 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
-            "pep8": {
+            "flake8": {
                 "@disable": false,
                 "args": [],
+                "builtins": "",
                 "excludes": [],
-                "ignore": "E501",
-                "max-line-length": null,
+                "ignore": "",
+                "max-complexity": 10,
+                "max-line-length": 79,
                 "select": ""
             },
-            "pyflakes": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "pylint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "disable": "C0301",
                 "enable": "",
@@ -34,7 +31,9 @@
         "mark_style": "outline",
         "no_column_highlights_line": false,
         "paths": {
-            "linux": [],
+            "linux": [
+                "~/.local/bin"
+            ],
             "osx": [],
             "windows": []
         },
