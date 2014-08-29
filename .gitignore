@@ -4,3 +4,4 @@ Rails/
 SublimeCodeIntel/
 SublimeLinter/
 WakaTime/
+*.cache
