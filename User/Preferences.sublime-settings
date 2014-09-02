@@ -9,7 +9,7 @@
 		"*.sw[nop]",
 		"*.py[co]",
 		"*.o",
-		"*.a",
+		"*.a"
 	],
 	"folder_exclude_patterns":
 	[
