@@ -5,16 +5,39 @@
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
-		".nfs*",
-		"*.sw[nop]",
-		"*.py[co]",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
 		"*.o",
-		"*.a"
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sqlite3",
+		"*.sublime-workspace",
+		".nfs*",
+		".swn",
+		".swo",
+		".swp"
 	],
 	"folder_exclude_patterns":
 	[
+		".svn",
 		".git",
+		".hg",
 		"build",
+		"CVS",
 		"dist",
 		"rpm"
 	],
