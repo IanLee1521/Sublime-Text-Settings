@@ -19,7 +19,9 @@
 		"SublimeLinter",
 		"SublimeLinter-flake8",
 		"SublimeLinter-pylint",
+		"SublimeLinter-rst",
 		"Tcsh and Csh Mode",
+		"Theme - Soda",
 		"TrailingSpaces",
 		"WakaTime",
 		"WordCount"
