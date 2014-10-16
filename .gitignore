@@ -3,5 +3,6 @@ PyV8/
 Rails/
 SublimeCodeIntel/
 SublimeLinter/
+SublimeLinter-*/
 WakaTime/
 *.cache
