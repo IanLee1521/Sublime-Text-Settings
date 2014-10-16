@@ -38,8 +38,10 @@
 		".git",
 		".hg",
 		"build",
+		"_build",
 		"CVS",
 		"dist",
+		"*.egg-info",
 		"rpm"
 	],
 	"font_options":
