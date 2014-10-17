@@ -13,6 +13,7 @@
                 "builtins": "",
                 "excludes": [],
                 "ignore": "",
+                "jobs": "1",
                 "max-complexity": 10,
                 "max-line-length": 79,
                 "select": ""
