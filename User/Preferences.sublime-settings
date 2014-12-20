@@ -46,6 +46,7 @@
 		"CVS",
 		"dist",
 		"*.egg-info",
+		".tox",
 		"rpm"
 	],
 	"font_options":
