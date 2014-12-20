@@ -28,9 +28,13 @@
 		"*.sqlite3",
 		"*.sublime-workspace",
 		".nfs*",
-		".swn",
-		".swo",
-		".swp"
+		"*.rpm",
+		"*.swn",
+		"*.swo",
+		"*.swp",
+		"*.tar",
+		"*.tar.gz",
+		"*.zip"
 	],
 	"folder_exclude_patterns":
 	[
