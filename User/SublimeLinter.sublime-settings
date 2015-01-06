@@ -21,7 +21,7 @@
             "pylint": {
                 "@disable": true,
                 "args": [],
-                "disable": "C0301",
+                "disable": "",
                 "enable": "",
                 "excludes": [],
                 "paths": [],
@@ -31,6 +31,7 @@
         },
         "mark_style": "outline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [
                 "~/.local/bin"
