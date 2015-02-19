@@ -27,6 +27,11 @@
                 "paths": [],
                 "rcfile": "",
                 "show-codes": false
+            },
+            "rst": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
@@ -40,7 +45,10 @@
             "windows": []
         },
         "python_paths": {
-            "linux": [],
+            "linux": [
+                "~/.local/lib/python2.7/site-packages",
+                "~/.local/lib/python3.4/site-packages"
+            ],
             "osx": [],
             "windows": []
         },
