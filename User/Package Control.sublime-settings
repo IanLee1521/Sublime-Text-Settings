@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Anaconda",
 		"BracketHighlighter",
 		"CMake",
 		"Djaneiro",
@@ -12,8 +13,7 @@
 		"HTML5",
 		"INI",
 		"jQuery",
-		"Mercurial",
-		"Mercurial for Sublime",
+		"LiveStyle",
 		"Puppet",
 		"RPM Spec Syntax",
 		"SideBarEnhancements",
