@@ -57,23 +57,21 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"RPM Spec Syntax",
-		"SideBarEnhancements",
-		"BracketHighlighter",
-		"SublimeCodeIntel",
-		"CMake",
-		"Vintage",
 		"Alignment",
+		"CMake",
 		"DocBlockr",
 		"HTML5",
-		"WordCount",
-		"TrailingSpaces",
-		"jQuery",
-		"Wrap Plus",
 		"INI",
+		"jQuery",
+		"Puppet",
+		"RPM Spec Syntax",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"Tcsh and Csh Mode",
+		"TrailingSpaces",
+		"Vintage",
 		"WakaTime",
-		"Puppet"
+		"WordCount"
 	],
 	"rulers":
 	[
