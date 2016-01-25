@@ -76,6 +76,7 @@
 	[
 		79
 	],
+	"show_encoding": true,
 	"scroll_past_end": true,
 	"tab_completion": false,
 	"tab_size": 4,
