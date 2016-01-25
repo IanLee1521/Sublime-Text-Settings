@@ -1,32 +1,14 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Alignment",
-		"Anaconda",
-		"BracketHighlighter",
-		"CMake",
-		"Djaneiro",
-		"DocBlockr",
 		"Emmet",
 		"Git",
-		"GitGutter",
-		"HTML5",
-		"INI",
-		"jQuery",
-		"LiveStyle",
-		"Puppet",
-		"RPM Spec Syntax",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"SublimeLinter-pylint",
-		"SublimeLinter-rst",
-		"Tcsh and Csh Mode",
-		"Theme - Soda",
-		"TrailingSpaces",
-		"WakaTime",
-		"WordCount",
-		"Wrap Plus"
+		"GitGutter-Edge",
+		"Package Control",
+		"Theme - Soda"
 	]
 }
