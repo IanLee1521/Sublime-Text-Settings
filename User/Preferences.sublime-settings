@@ -76,6 +76,7 @@
 	[
 		79
 	],
+	"scroll_past_end": true,
 	"tab_completion": false,
 	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
