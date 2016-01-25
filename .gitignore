@@ -7,3 +7,6 @@ SublimeLinter/
 SublimeLinter-*/
 WakaTime/
 *.cache
+*.merged-ca-bundle
+*.system-ca-bundle
+*.user-ca-bundle
