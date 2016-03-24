@@ -14,7 +14,7 @@ assuming that Sublime Text is installed at
 `~/Library/Application Support/ Sublime Text 3`, this might look like:
 
     $ git clone https://github.com/IanLee1521/Sublime-Text-Settings ~/Sublime-Text-Settings
-    $ cd ~/Library/Application Support/ Sublime Text 3/Packages
+    $ cd "$HOME/Library/Application Support/Sublime Text 3/Packages"
     $ mv User User-backup
     $ ln -s ~/Sublime-Text-Settings/User User
 
