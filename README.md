@@ -21,4 +21,4 @@ assuming that Sublime Text is installed at
 License
 -------
 
-This code is released under the MIT License.
+This code is released under the [MIT License](/LICENSE).
