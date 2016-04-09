@@ -8,5 +8,6 @@
         "mmd",
         "txt"
     ],
+    "wrap_width": 80,
     "word_wrap": true
 }
