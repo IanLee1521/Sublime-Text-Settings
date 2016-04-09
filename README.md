@@ -7,18 +7,19 @@ the settings that work best for me and you are welcome to make use of them.
 Getting Started
 ---------------
 
-The easiest way to use this repository is to clone it into your projects space,
-and then create a symlink replacing the real Sublime Text User Settings
-directory with a pointer to the `User` subdirectory of this repo. On Mac OS X,
-assuming that Sublime Text is installed at
-`~/Library/Application Support/ Sublime Text 3`, this might look like:
+To get started using these settings, clone the repository into the your User
+configuration directory. Depending on your OS the default Sublime Configuration
+may be located someplace else. Below are the defaults paths for Linux and Mac.
 
-    $ git clone https://github.com/IanLee1521/Sublime-Text-Settings ~/Sublime-Text-Settings
-    $ cd ~/Library/Application Support/ Sublime Text 3/Packages
-    $ mv User User-backup
-    $ ln -s ~/Sublime-Text-Settings/User User
+    # Linux
+    $ DIR="$HOME/.config/sublime-text-settings/User"
+
+    # Mac OS X
+    $ DIR="$HOME/.config/Library/Application Support/Sublime Text 3/Packages"
+
+    $ git clone https://github.com/IanLee1521/Sublime-Text-Settings $DIR
 
 License
 -------
 
-This code is released under the MIT License.
+This code is released under the [MIT License](/LICENSE).
